@@ -1,4 +1,4 @@
-fx_version 'bodacious'
+fx_version 'cerulean'
 game 'gta5'
 description 'ESX Mechanic Tools - Use tools in your shop!'
 author 'Abel Gaming'
